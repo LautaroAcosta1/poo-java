@@ -1,9 +1,10 @@
 package poojava;
 
-public class Ejercicio1 {
+public class Arreglo {
 
+	// PUNTO 6 DE PRACTICA 1!!!!!
+	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 	}
 
